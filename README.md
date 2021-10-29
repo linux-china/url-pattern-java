@@ -1,7 +1,12 @@
 URLPattern Java
 =================
 
-URLPattern API implementation with Java
+URLPattern API implementation with Java. 
+
+Alternatives:
+
+* AntPathMatcher
+* Spring PathPattern 
 
 # How to use?
 
