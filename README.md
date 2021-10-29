@@ -44,5 +44,5 @@ public class DemoTest {
 # References
 
 * URLPattern API: https://wicg.github.io/urlpattern/
-* Web APIs - URLPattern:  https://developer.mozilla.org/en-US/docs/Web/API/URLPattern
+* Web APIs - URLPattern: https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API
 * URLPattern Rust: https://github.com/denoland/rust-urlpattern
